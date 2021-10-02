@@ -6,6 +6,16 @@ Record my own solution and ideas in the process of brushing LeetCode. Brush thro
 ![](https://img.shields.io/badge/%F0%9F%93%96-leetcode-green)
 ![](https://img.shields.io/badge/%F0%9F%8D%96-one--piece-green)
 
+----
+
+## [HOT 100](https://leetcode-cn.com/problem-list/2cktkvj/)
+
+| Id   | Title                                                        | Solution | Difficulty |
+| ---- | ------------------------------------------------------------ | -------- | ---------- |
+| 1    | [两数之和](https://github.com/sang-Mu/leetcode-onepiece/issues/1) | HashMap  | easy       |
+
+
+
 
 
 
