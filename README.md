@@ -14,7 +14,7 @@ Record my own solution and ideas in the process of brushing LeetCode. Brush thro
 | ---- | ------------------------------------------------------------ | ------------ | ---------- |
 | 1    | [两数之和](https://github.com/sang-Mu/leetcode-onepiece/issues/1) | HashMap      | easy       |
 | 2    | [两数相加](https://github.com/sang-Mu/leetcode-onepiece/issues/2) | 链表 \| 指针 | medium     |
-| 3    | [[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)](https://github.com/sang-Mu/leetcode-onepiece/issues/3) | 滑动窗口     | medium     |
+| 3    | [无重复字符的最长子串](https://github.com/sang-Mu/leetcode-onepiece/issues/3) | 滑动窗口     | medium     |
 |      |                                                              |              |            |
 
 
