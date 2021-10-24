@@ -7,6 +7,7 @@ package basic;
  */
 public class TreeNode {
     public int val;
+    public TreeNode father;
     public TreeNode left;
     public TreeNode right;
 
